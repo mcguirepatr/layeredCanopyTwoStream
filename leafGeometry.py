@@ -1,5 +1,4 @@
 #!/usr/bin/python
-TEST
 """ leafGeometry.py
 
 Implements various leaf inclination functions for
